@@ -1,3 +1,3 @@
 # Hello-world
 My first repository
-Hello Wrold I am tom 
+Hello World I am Tom 
